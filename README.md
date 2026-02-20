@@ -1,6 +1,6 @@
 # Bienvenidos a la Tarea de HTML y CSS
  
- https://dsaw-2025-ii.github.io/my-cv-part-b-llotoa64/
+ TRABAJO: https://dsaw-2025-ii.github.io/my-cv-part-b-llotoa64/
 
 ¡Hola a todos!
 
